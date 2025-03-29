@@ -11,5 +11,5 @@ g++ consumer.cpp -pthread -lrt -o consumer
 ./producer & ./consumer
 ```
 
-
 ## Examples
+![image](Example.png)
